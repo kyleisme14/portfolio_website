@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "./HomePage.css";
 
 
-class HomePage extends Component {
+class SecondPage extends Component {
     render() {
         return (
             <div>
@@ -12,4 +12,4 @@ class HomePage extends Component {
     }
 }
 
-export default HomePage;
+export default SecondPage;

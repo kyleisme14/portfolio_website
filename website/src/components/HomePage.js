@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "./HomePage.css";
+import "./SecondPage.js"
 
 
 export default class Homepage extends Component {

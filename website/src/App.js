@@ -9,12 +9,15 @@ import './App.css';
 import HomePage from "./components/HomePage";
 import SecondPage from "./components/SecondPage";
 
+
 class App extends Component {
   render() {
     return (
       <>
       < HomePage />
-
+      <div>
+                < SecondPage />
+      </div>
     </>
     );
   }
